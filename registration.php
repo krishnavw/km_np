@@ -16,6 +16,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::LANGUAGE,
-    'mageplaza_km_np',
+    'krishnavw_km_np',
     __DIR__
 );
