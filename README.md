@@ -1,2 +1,2 @@
-# km_np
-This is nepali language pack
+# Nepali km_np
+This is the Nepali additional language pack for magento2
