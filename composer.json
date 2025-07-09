@@ -1,24 +1,8 @@
 {
-  "name": "mageplaza/magento-2-nepali-language-pack",
-  "description": "Nepali language package for Magento 2",
-  "homepage": "https://www.mageplaza.com",
-  "require": {
-    "mageplaza/module-core": "^1.3.13"
-  },
+  "name": "krishnavw/magento2-language-km_np",
+  "description": "Khmer Nepal Language Pack for Magento 2",
   "type": "magento2-language",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
-  "license": [
-    "MIT"
-  ],
-  "authors": [
-    {
-      "name": "Mageplaza team",
-      "email": "hi@mageplaza.com",
-      "homepage": "https://www.mageplaza.com",
-      "role": "Leader"
-    }
-  ],
+  "version": "1.0.0",
   "autoload": {
     "files": [
       "registration.php"
