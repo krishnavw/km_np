@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:framework:App/Language/package.xsd">
     <code>km_NP</code>
-    <vendor>mageplaza</vendor>
+    <vendor>krishnavw</vendor>
     <package>km_np</package>
 </language>
